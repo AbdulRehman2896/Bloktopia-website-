@@ -1,0 +1,168 @@
+*{margin:0px;
+  padding:0px;
+  color:white;
+  box-sizing: border-box;
+  background-color: black}
+.logo{margin-top:15px;
+  margin-left:20px;
+}
+.pic{height: 30vh;
+  width:90%;
+  margin-top: 60px;
+  border-radius:12px
+}
+.heroimg{ display: flex;
+  justify-content: center
+  
+}
+.hero
+   {margin-top: 35px;}
+.h1{color:white;
+  font-size: 35px;
+  text-align:center;
+  
+}
+.pink{color:rgb(245, 66, 191);}
+.para{color:white;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px
+  
+  
+}
+.para1{width:272px;
+  text-align: center;
+}
+.btn button
+{color:rgb(245, 66, 191);
+  padding: 10px;
+  width:220px;
+  border-color:rgb(245, 66, 191);
+  border-radius:9px;
+  
+}
+.btn{margin-top: 35px;
+  text-align: center}
+
+.head img{
+  width:340px;
+  
+}
+.head{display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  margin-left: 80px
+}
+.h3{
+  text-align: center;
+  margin-top: 35px
+  
+}
+.paradiv{
+  display: flex;
+  justify-content: center
+}
+.para2{
+  margin-top: 30px;
+  width:272px;
+  text-align: center
+}
+.laptop img{
+  width:340px;
+  margin-top: 45px;
+  
+}
+.laptop{
+  text-align: center
+}
+.vid{
+  width:100%
+}
+
+.mcards{
+  height:65vh;
+  margin-top:3px;
+  margin-left: 13px;
+  background-image: url("./assets/bar.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  border: 1px solid grey;
+  border-radius: 7px;}
+.ncards {
+  height:65vh;
+  margin-top:3px;
+  margin-left: 13px;
+  background-image: url("./assets/code.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  margin-top: 21px;
+  border: 1px solid grey;
+  border-radius: 7px;}
+  
+ .ocards{  height:65vh;
+  margin-top:3px;
+  margin-left: 13px;
+  background-image: url("./assets/man.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  border: 1px solid grey;
+   margin-top: 21px;
+  border-radius: 7px;}
+.pcards{
+    height:65vh;
+  margin-top:3px;
+  margin-left: 13px;
+  background-image: url("./assets/binance.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border: 1px solid grey;
+  border-radius: 7px;
+  margin-top: 21px;
+box-shadow: 0px 2px grey}
+  
+.end{
+  height: 90px;
+  box-shadow: 0px 1px grey
+}
+.foot{
+  margin-top: 60px
+}
+.fpara{
+  text-align: center;
+  margin-top: 60px
+  
+}
+.fh{
+  text-align: center;
+  margin-top: 30px;
+}
+ .fh h3{
+   margin-top:30px;
+   color:rgb(245, 66, 191)
+   
+ } 
+.fpara2{
+  margin-top: 20px;
+  text-align: center;
+  
+}
+.fpara2 p{
+  width:310px;
+  font-size: 12px;
+  margin-left: 26px
+  
+}
+.pcards{
+  box-shadow: 2px;
+}
+.saft{
+  margin-top: 70px
+}
+.last{
+  margin-top: 20px;
+  width:172px
+}
